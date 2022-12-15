@@ -1,3 +1,3 @@
-module github.com/reinerhuechting/courses.go.aufgaben.strings
+module github.com/tel22a.inf/aufgaben_strings
 
 go 1.19
